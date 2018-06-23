@@ -1,3 +1,7 @@
+[![Build Status](https://travis-ci.org/kalwar/simple-number-fomatter.svg?branch=master)](https://travis-ci.org/kalwar/simple-number-fomatter)
+
+[![Coverage Status](https://coveralls.io/repos/github/kalwar/simple-number-fomatter/badge.svg?branch=master)](https://coveralls.io/github/kalwar/simple-number-fomatter?branch=master)
+
 Number Formatter
 =========
 
